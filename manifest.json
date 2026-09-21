@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Neon Brick Breaker",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "BrickBreaker",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.brickbreaker.legend",
+  "description": "Break bricks with balls, clear levels and challenge your skills in this addicting arcade game!"
+}
