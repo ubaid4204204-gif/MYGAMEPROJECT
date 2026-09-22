@@ -9,24 +9,7 @@
   "description": "Break bricks with balls, clear levels and challenge your skills!",
   "icons": [
     {
-      "src": "{
-  "name": "Brick Breaker Legend",
-  "short_name": "BrickBreaker",
-  "id": "com.brickbreaker.legend",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
-  "description": "Break bricks with balls, clear levels and challenge your skills!",
-  "icons": [
-    {
-      "src": "https://lh3.googleusercontent.com/pw/AP1GczO2fM-yX6x8k7lR3S8yq...", 
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
-}", 
+      "src": "icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
